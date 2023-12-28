@@ -4,3 +4,4 @@
 * **Interest Calculator**: A program that calculates the interest on a loan.
 * **Array Reverser**: A program that reverses an array of numbers.
 * **Odd or Even**: A program that checks if a number is odd or even.
+* **Decimal to Binary Converter**: A program that converts a decimal number to binary.
