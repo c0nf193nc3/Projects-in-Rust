@@ -5,3 +5,4 @@
 * **Array Reverser**: A program that reverses an array of numbers.
 * **Odd or Even**: A program that checks if a number is odd or even.
 * **Decimal to Binary Converter**: A program that converts a decimal number to binary.
+* **String Repeater**: A program that repeats a string a certain number of times.
