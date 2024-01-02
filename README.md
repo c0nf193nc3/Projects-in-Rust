@@ -7,3 +7,4 @@
 * **Decimal to Binary Converter**: A program that converts a decimal number to binary.
 * **String Repeater**: A program that repeats a string a certain number of times.
 * **Sum of Array**: A program that calculates the sum of an array of numbers.
+* **Case Converter**: A program that converts a string to uppercase or lowercase.
